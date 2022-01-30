@@ -1,0 +1,12 @@
+*{
+    background: lightgray;
+}
+section{
+    text-align: center;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    font-size:30px;
+  }
